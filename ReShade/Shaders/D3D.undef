@@ -1,0 +1,8 @@
+#undef USE_Depth3D
+#undef DepthMap
+#undef AltDepthMap
+#undef DepthFix
+#undef Pop
+#undef Seperation
+#undef EyeSwap
+#undef Depth3D_ToggleKey
