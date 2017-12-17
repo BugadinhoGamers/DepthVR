@@ -13,11 +13,11 @@ All Directx 8,9,10,11 and OpenGL games, but keep in mind that if the game doesn'
 1) Put all files to your game's executable folder.
 2) Rename ReShade32.dll to:
 
-	d3d8.dll     - Directx 8
-	d3d8.dll     - Directx 9
-	d3d10.dll    - Directx 10
-	d3d11.dll    - Directx 11
-	opengl32.dll - OpenGL
+- d3d8.dll for Directx 8
+- d3d8.dll for Directx 9
+- d3d10.dll for Directx 10
+- d3d11.dll for Directx 11
+- opengl32.dll for OpenGL
 
 3) Press Scroll Lock to enable the effect.
 4) Enjoy the game!
@@ -27,11 +27,11 @@ All Directx 8,9,10,11 and OpenGL games, but keep in mind that if the game doesn'
 1) Put all files to your game's executable folder.
 2) Rename ReShade64.dll to:
 
-	d3d8.dll     - Directx 8
-	d3d8.dll     - Directx 9
-	d3d10.dll    - Directx 10
-	d3d11.dll    - Directx 11
-	opengl32.dll - OpenGL
+- d3d8.dll for Directx 8
+- d3d8.dll for Directx 9
+- d3d10.dll for Directx 10
+- d3d11.dll for Directx 11
+- opengl32.dll for OpenGL
 
 3) Press Scroll Lock to enable the effect.
 4) Enjoy the game!
