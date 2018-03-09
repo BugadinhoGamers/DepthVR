@@ -40,4 +40,4 @@ All Directx 8,9,10,11 and OpenGL games, but keep in mind that if the game doesn'
 ## Made with:
 
 - Reshade 2
-- Depth3D
+- Depth3D Original (https://github.com/BlueSkyDefender/Depth3D)
